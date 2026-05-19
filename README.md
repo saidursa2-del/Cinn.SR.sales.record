@@ -1,5 +1,4 @@
-# Cinn.SR.sales.record
-Sales Data records 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
